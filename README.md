@@ -38,8 +38,8 @@ Want to reach out? Fill out the form on my portfolio or connect via email.
 
 ## 🌐 Live Website
 
-A live version of the site is hosted at:  
-**https://your-netlify-or-github-pages-link.com** *(Update this with your deployment link)*
+A live version of the site is hosted at:
+https://nelliekemunto.netlify.app/
 
 ---
 
